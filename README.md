@@ -2,7 +2,8 @@
 This repository contains my data analytics projects using Python as part of IBM Coursera certification.
 
 ## Completed Project
-- Data Collection and Cleaning (Auto Dataset)
+- Module 1: Data Collection and Cleaning (Auto Dataset)
+- Module 2: Data Wrangling (Handling Missing Values, Normalization, Binning, Dummy Variables)
 
 ## Tools Used
 - Python
