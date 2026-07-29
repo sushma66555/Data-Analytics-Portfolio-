@@ -32,6 +32,23 @@ Welcome to my Data Analytics Portfolio! This repository showcases my hands-on le
 * Pearson Correlation
 * P-value Analysis
 
+###Model Development using Machine Learning
+Machine Learning Concepts Covered
+Linear Regression
+Multiple Linear Regression
+Prediction using predict()
+Model Training using fit()
+Regression Plot
+Correlation Analysis
+Residual Plot
+Distribution Plot
+Polynomial Regression
+Polynomial Features
+Pipeline
+R² Score
+Mean Squared Error (MSE)
+Prediction & Decision Making
+
 ## Tools & Technologies
 
 * Python
@@ -40,6 +57,8 @@ Welcome to my Data Analytics Portfolio! This repository showcases my hands-on le
 * Matplotlib
 * Seaborn
 * SciPy
+* Pipeline
+* scikit-learn
 * Google Colab
 * Git & GitHub
 
@@ -54,6 +73,7 @@ Through these projects, I am developing practical skills in:
 * Data Cleaning
 * Data Wrangling
 * Exploratory Data Analysis (EDA)
+* Model development
 * Statistical Analysis
 * Data Visualization
 * Feature Relationship Analysis
